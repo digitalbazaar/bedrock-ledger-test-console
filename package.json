@@ -34,7 +34,7 @@
     "bedrock-identity": "^4.6.0",
     "bedrock-key": "^4.1.0",
     "bedrock-ledger-test-dashboard": "^1.0.0",
-    "bedrock-mongodb": "^5.1.2",
+    "bedrock-mongodb": "^5.3.0",
     "bedrock-passport": "^3.4.1",
     "bedrock-permission": "^2.4.3",
     "bedrock-rest": "^2.1.0",
