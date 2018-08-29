@@ -34,7 +34,7 @@
     "bedrock-express": "^2.0.8",
     "bedrock-identity": "^4.6.0",
     "bedrock-key": "^4.1.0",
-    "bedrock-ledger-test-console-dashboard": "digitalbazaar/bedrock-ledger-test-dashboard#implementation",
+    "bedrock-ledger-test-dashboard": "digitalbazaar/bedrock-ledger-test-dashboard#implementation",
     "bedrock-mongodb": "^5.1.2",
     "bedrock-passport": "^3.4.1",
     "bedrock-permission": "^2.4.3",
