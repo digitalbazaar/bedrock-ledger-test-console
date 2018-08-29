@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-test-console",
   "dependencies": {
-    "aws-instance-metadata": "^2.0.1",
-    "bedrock": "digitalbazaar/bedrock#cliParsed",
+    "aws-instance-metadata": "digitalbazaar/aws-instance-metadata#got9",
+    "bedrock": "^1.12.1",
     "bedrock-angular": "^4.0.0",
     "bedrock-did-client": "^1.1.2",
     "bedrock-docs": "^2.1.1",
